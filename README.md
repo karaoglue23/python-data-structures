@@ -2,7 +2,6 @@
 
 Core data structures and algorithms implemented from scratch in Python (no external libraries), written as self-study during Fall 2025. Each topic has a main implementation plus practice problems I solved on top of it.
 
-> **Note:** I followed the [COURSE NAME / INSTRUCTOR] course while building this repo. The implementations were written and tested by me as I worked through it.
 
 ## Contents
 
