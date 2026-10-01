@@ -46,7 +46,7 @@ class BinarySearchTree:
 
     def __sorted_list_to_bst(self, nums, left, right):
         #   +====================================================+
-        #   |               WRITE YOUR CODE HERE                 |
+        #   |                                                    |
         #   | Description:                                       |
         #   | - Private method to convert a sorted list to a     |
         #   |   binary search tree (BST).                        |

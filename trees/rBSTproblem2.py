@@ -27,7 +27,7 @@ class BinarySearchTree:
         self.root = self.__invert_tree(self.root)
 
     #   +===================================================+
-    #   |              WRITE YOUR CODE HERE                 |
+    #   |                                                   |
     #   | Description:                                      |
     #   | - Private method to invert a binary tree.         |
     #   | - It swaps every left child with its right child  |
